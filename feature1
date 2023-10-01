@@ -1,0 +1,10 @@
+#
+#
+#
+# This file might contain code for a feature
+echo "----"
+for EACHFILE in *
+do
+  echo $EACHFILE
+done
+echo "----"
